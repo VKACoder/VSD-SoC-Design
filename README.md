@@ -58,6 +58,6 @@ To view the results and reports of the synthesis, direct to work/tools/openlane_
   Fig 1.3.6: Reports directory.
   
   ![syn_stat](https://github.com/user-attachments/assets/a2b44492-b157-44cf-9d6e-a9fcec64efb8)
-  Fig 1.3.7: Yosys synthessi report.
+  Fig 1.3.7: Yosys synthesis report.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
