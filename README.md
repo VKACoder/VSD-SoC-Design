@@ -26,5 +26,5 @@ The day started with the introduction to RISC-V ISA, openLANE and concluded with
   ![Screenshot from 2025-02-08 18-07-32](https://github.com/user-attachments/assets/2ff45b3d-e852-4c0c-b529-fb11cb4ef975)
   Fig 1.2.1: OpenLANE ASIC flow
 
-4. OpenLANE setup:
+3. OpenLANE setup:
 #TODO
