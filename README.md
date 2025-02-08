@@ -60,4 +60,6 @@ To view the results and reports of the synthesis, direct to work/tools/openlane_
   ![syn_stat](https://github.com/user-attachments/assets/a2b44492-b157-44cf-9d6e-a9fcec64efb8)
   Fig 1.3.7: Yosys synthesis report.
 
+  From Fig 1.3.7, it can be inferred that the flip flop ratio which is defined as the ratio of no. of flip flops/total no. of cells, is 0.1084 or 10.84% (1613/14876).
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
