@@ -63,3 +63,70 @@ To view the results and reports of the synthesis, direct to work/tools/openlane_
   From Fig 1.3.7, it can be inferred that the flip flop ratio which is defined as the ratio of no. of flip flops/total no. of cells, is 0.1084 or 10.84% (1613/14876).
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
+FLOORPLAN:
+![fp-10-2-files](https://github.com/user-attachments/assets/0dcdbc16-2eb6-4d14-9a19-c124ff205b9e)
+![fparea](https://github.com/user-attachments/assets/73d49b29-a55f-4954-9bc6-dc1a19424408)
+![fp-def](https://github.com/user-attachments/assets/c7daa9de-57fa-4eb6-94ce-71be43cacd78)
+![fplog](https://github.com/user-attachments/assets/ef41f7eb-cc1e-40b8-8a59-9a224a1ca361)
+![Screenshot from 2025-02-10 15-46-16](https://github.com/user-attachments/assets/919d2a8d-d3d9-4c33-9aea-4fb4b999cd80)
+![Screenshot from 2025-02-10 15-48-22](https://github.com/user-attachments/assets/f7b54b93-1331-47b0-9ca9-3b0ef7875285)
+
+
+PLACEMENT:
+
+![Screenshot from 2025-02-11 10-33-47](https://github.com/user-attachments/assets/b91e0f43-13e8-4959-8382-63e999d942fe)
+![Screenshot from 2025-02-11 10-34-17](https://github.com/user-attachments/assets/ab5af6fd-3099-4a20-be64-5347271558b6)
+![Screenshot from 2025-02-15 09-38-54](https://github.com/user-attachments/assets/ba047214-cee4-4a3e-b602-85779365f8d2)
+
+CUSTOM CELL - INVERTER:
+![Screenshot from 2025-02-11 11-15-53](https://github.com/user-attachments/assets/32fe366b-7d09-4799-88bb-8781e7194d6f)
+![Screenshot from 2025-02-13 21-04-13](https://github.com/user-attachments/assets/cf8cb8fc-7151-4e60-abc6-c43cef35953c)
+
+LAYOUT:
+![Screenshot from 2025-02-11 11-20-58](https://github.com/user-attachments/assets/22f01e35-9940-44af-912d-8fc2dedb8d54)
+
+![Screenshot from 2025-02-13 20-43-56](https://github.com/user-attachments/assets/f5cfdcf8-8706-4157-9d6b-02b042e5c6d7)
+![Screenshot from 2025-02-13 20-47-08](https://github.com/user-attachments/assets/6a1cac40-86b8-4636-b2b0-aa6514e4868f)
+![Screenshot from 2025-02-13 20-49-07](https://github.com/user-attachments/assets/aff89e17-4169-4a79-a50d-3c7252c68054)
+![Screenshot from 2025-02-13 21-01-19](https://github.com/user-attachments/assets/c8a1543c-abbd-4da8-85a1-b3fd9df8b92e)
+
+![Screenshot from 2025-02-13 21-04-03](https://github.com/user-attachments/assets/9b31de76-4ccb-4b72-812a-52e5e49ccfd1)
+![Screenshot from 2025-02-12 18-18-46](https://github.com/user-attachments/assets/bd6c9d4c-b051-4795-93fa-049261036d6d)
+![Screenshot from 2025-02-12 20-38-27](https://github.com/user-attachments/assets/21288ea6-47f6-4536-afac-ce1eb69a6724)
+
+![Screenshot from 2025-02-12 20-36-36](https://github.com/user-attachments/assets/e64057f4-817c-40d6-84ba-63c18987d4a6)
+![Screenshot from 2025-02-12 20-40-32](https://github.com/user-attachments/assets/78bb0fc1-4bbb-4821-a944-2432acd5479d)
+![Screenshot from 2025-02-13 21-06-22](https://github.com/user-attachments/assets/7e72e7d6-d011-4df1-adb6-bf46f52084a1)
+
+
+![Screenshot from 2025-02-13 21-06-22](https://github.com/user-attachments/assets/0549fed8-e63c-4f66-b5c7-c26b5a6fee78)
+SYNTHESIS:
+![Screenshot from 2025-02-13 21-33-35](https://github.com/user-attachments/assets/8a3ae0e0-cb87-4255-a8b9-743ee4ae2b86)
+TIMING CORRECTION:
+![Screenshot from 2025-02-14 22-06-57](https://github.com/user-attachments/assets/833196a0-d434-4a25-a215-a9ca30273542)
+
+FLOORPLAN:
+![Screenshot from 2025-02-14 22-08-43](https://github.com/user-attachments/assets/82f4a938-aec3-44fa-b979-967daedc859f)
+PLACEMENT:
+![Screenshot from 2025-02-14 22-43-55](https://github.com/user-attachments/assets/e96ca97b-9632-461c-b238-79a65a5040b7)
+![Screenshot from 2025-02-15 09-45-38](https://github.com/user-attachments/assets/bbd40149-c232-4a54-962b-6c1c3ed9a981)
+
+CTS:
+![Screenshot from 2025-02-16 00-15-35](https://github.com/user-attachments/assets/94d57029-f987-4187-9f56-3d95002ba3ec)
+![Screenshot from 2025-02-15 23-52-02](https://github.com/user-attachments/assets/e974665d-2c5f-46bb-9cfd-825002f5ae16)
+
+![Screenshot from 2025-02-16 21-26-42](https://github.com/user-attachments/assets/99ab68bc-4d29-4fd3-9753-a1bae3f681df)
+![Screenshot from 2025-02-16 21-26-45](https://github.com/user-attachments/assets/f848fc47-af88-41f5-a943-d525b0eb17fd)
+
+PDN:
+![Screenshot from 2025-02-16 21-49-08](https://github.com/user-attachments/assets/7ffa6040-3ab0-420d-b7a2-13f5af14ccb3)
+![Screenshot from 2025-02-11 10-38-00](https://github.com/user-attachments/assets/ec3e1a49-930a-4fab-9248-477847f01ab3)
+![power_routing1](https://github.com/user-attachments/assets/842b9ddf-8d10-4b15-b88f-2d9094e9b2d8)
+![Screenshot from 2025-02-16 22-09-12](https://github.com/user-attachments/assets/18ee9b1f-0506-40bc-a6e2-19cde382df40)
+
+ROUTING:
+
+
+
+
+
