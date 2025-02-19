@@ -129,6 +129,13 @@ ROUTING:
 ![ROUTING](https://github.com/user-attachments/assets/5434203a-69f8-4ea6-9fdf-615ec8b60377)
 
 
+DRC:
+
+![Screenshot from 2025-02-13 14-28-49](https://github.com/user-attachments/assets/715105b3-0284-4529-8c87-5c7097353c9b)
+![Screenshot from 2025-02-13 14-35-35](https://github.com/user-attachments/assets/622e0908-c009-4b04-94a4-f4fc652f5a43)
+![Screenshot from 2025-02-13 14-42-46](https://github.com/user-attachments/assets/646d7686-4bdb-46f0-84ba-48bc06af243a)
+
+
 
 
 
